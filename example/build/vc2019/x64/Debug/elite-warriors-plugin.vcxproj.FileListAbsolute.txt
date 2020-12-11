@@ -1,0 +1,2 @@
+C:\Github\Pluma\example\bin\Debug\plugins\elite-warriors-plugin-d.pdb
+C:\Github\Pluma\example\build\vc2019\x64\Debug\elite-warriors-plugin-d.pdb
